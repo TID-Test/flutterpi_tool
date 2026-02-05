@@ -946,7 +946,8 @@ void main() {
         config
           ..addDeviceFn = (entry) {
             fail(
-                'addDeviceFn should not have been called with invalid rotation');
+              'addDeviceFn should not have been called with invalid rotation',
+            );
           }
           ..containsDeviceFn = (id) {
             return false;
