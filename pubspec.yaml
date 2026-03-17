@@ -24,7 +24,7 @@ dependencies:
   meta: ^1.10.0
   process: ^5.0.0
   unified_analytics: ">=7.0.0 <9.0.0"
-  archive: ^3.3.2
+  archive: ^3.6.1
   crypto: ^3.0.3
 
 dev_dependencies:
